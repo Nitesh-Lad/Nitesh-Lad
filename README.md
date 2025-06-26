@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mahesh Sumb
+# Hi there! 👋 I'm Nitesh Lad
 
 I'm a passionate software developer and tech enthusiast. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
@@ -18,16 +18,16 @@ I'm a passionate software developer and tech enthusiast. Welcome to my GitHub pr
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshsumb&show_icons=true&count_private=true&hide=stars&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitesh-Lad&show_icons=true&count_private=true&hide=stars&theme=radical)
 ## 📊 My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheshsumb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Lad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maheshsumb&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nitesh-Lad&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-sumb)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MaheshSumb25275)
-[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshlad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=react&logoColor=white)]()
 
 ## 🤝 Let's Collaborate
 
